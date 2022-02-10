@@ -101,5 +101,10 @@ body {
   .input-couleur{
     height: 30px !important;
   }
-  
+  .img-products{
+    width: 150px;
+  }
+  td{
+    vertical-align: middle !important;;
+  }
   

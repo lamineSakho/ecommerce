@@ -8,7 +8,7 @@ require_once('inc/init.inc.php');
 //suprime 'indice 'user' dans la session afin qu'il soit plus authentifié sur le site
 if(connect())
 {
-    header('location: connexion.php');
+    header('location: profil.php');
 }
 
 

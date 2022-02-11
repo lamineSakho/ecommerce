@@ -104,6 +104,9 @@ body {
   .img-products{
     width: 150px;
   }
+  .img-product-update {
+    width: 250px;
+  }
   td{
     vertical-align: middle !important;;
   }
